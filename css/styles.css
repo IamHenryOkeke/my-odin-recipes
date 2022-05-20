@@ -1,0 +1,41 @@
+h1{
+    display: block;
+    background-color: brown;
+    color: white;
+    padding: 18px 4px ;
+    border: 30px double;
+    text-align: center;
+
+}
+
+.Jollof{
+    display: block;
+    background-color: yellow;
+    border: dashed red 5px;
+    text-align: center;
+    padding: 8px 4px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+
+.Egusi{
+    display: block;
+    background-color: rgba(201, 47, 36, 0.397);
+    border: dashed red 5px;
+    text-align: center;
+    padding: 8px 4px;
+    color: black;
+    margin-bottom: 50px;
+}
+
+
+.Noodles{
+    display: block;
+    background-color: rgb(255, 0, 13);
+    border: 4px groove black;
+    text-align: center;
+    padding: 8px 4px;
+    color: black;
+}
+
